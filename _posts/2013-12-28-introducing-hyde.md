@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing Hyde
-category: tesing
+category: testing
 tag: cats dogs bunnies
 ---
 
