@@ -17,7 +17,7 @@ url: /
 markdown: kramdown
 
 sass:
-  sass_dir: css
+  sass_dir: assets/css
   style:    expanded
 
 exclude:
