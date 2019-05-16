@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Slam Door Trains RIP
+title: Slam Door Trains
 category: observations 
 tag: slam door trains Brighton
 ---
@@ -15,7 +15,7 @@ Due to the fact that the platform is a universal grey tarmac, and wide, the actu
 
 No sooner had the train started passing the platform, the man opened the window, reached out, unlocked the door, and opened it half way.. he paused for a couple of seconds to judge 'his environment'... all safe.. and he stepped off the train...
 
-Just as his feet touched the platform, they were whipped out from under him. In a panic the man manages to get his arm through the window, and start hanging on to open door.
+Just as his feet touched the platform, they were whipped out from under him. In a panic the man manages to get his arm through the window, and start hanging onto open door.
 
 Being dragged down the platform, scuffing his posh black shoes.. "How long can he hold on for?" is going through my head. There is nothing I can do to help.. if he just stays hanging on, then he can recover his dignity when the train slows some more.
 
