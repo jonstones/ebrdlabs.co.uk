@@ -11,6 +11,9 @@ tagline: 'Helping Jon'
 path: /
 url: https://ebrdlabs.co.uk
 
+pages: ./_pages
+
+site.github.repo: https://github.com/jonstones
 ########
 # more settings
 
