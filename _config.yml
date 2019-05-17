@@ -29,3 +29,7 @@ exclude:
 safe: true
 lsi: false
 
+plugins:
+  - jekyll-pages-directory
+  
+
