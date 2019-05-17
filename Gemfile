@@ -9,4 +9,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 plugins:
   - jekyll-pages-directory
-  
+
+group :jekyll_plugins do
+   gem "jekyll-pages-directory"
+ end
